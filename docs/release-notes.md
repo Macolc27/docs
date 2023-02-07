@@ -8,6 +8,16 @@ meta:
 
 # Release notes
 
+## Chainstack 3.11.1
+
+*February 8, 2023*
+
+### What’s new
+
+* **Protocols**.
+   * Harmony migrated from devnet to [testnet](/operations/harmony/networks) for better experience.
+   * Gnosis Chain Sokol testnet is now deprecated. For development purposes, use [Gnosis Chain Chiado](/operations/gnosis/networks) testnet.
+
 ## Chainstack 3.11
 
 *February 2, 2023*

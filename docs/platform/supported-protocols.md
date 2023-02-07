@@ -44,7 +44,7 @@ Public network:
   * Testnet
 * [Gnosis Chain](/blockchains/gnosis)
 	* Mainnet. [Full and archive nodes](/operations/gnosis/modes).
-	* Sokol testnet
+	* Chiado testnet
 * [Cronos](/blockchains/cronos)
   * Mainnet. [Full and archive nodes](/operations/cronos/modes).
   * Testnet
@@ -58,7 +58,7 @@ Public network:
 	* Testnet
 * [Harmony](/blockchains/harmony)
 	* Mainnet
-	* Devnet
+	* Testnet
 * [Tezos](/blockchains/tezos)
 	* Mainnet. [Full and archive nodes](/operations/tezos/modes).
 	* Jakartanet testnet.
